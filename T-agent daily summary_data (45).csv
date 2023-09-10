@@ -1,0 +1,232 @@
+﻿LOB,Site,Supervisor ,Email,Period Start,Measure Names,aux_billable,Aux Status,agent_crm_id,Measure Values,aux_eligible_mins,productive_mins
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Emails Outbound,Billable,Watchlist,8261,0,21.8,14.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Closed Items,Billable,Watchlist,8261,1,21.8,14.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items - Match Aux,Billable,Watchlist,8261,1,21.8,14.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Min/Item,Billable,Watchlist,8261,14.416666667,21.8,14.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items,Billable,Watchlist,8261,1,21.8,14.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Total Items,Billable,Watchlist,8261,1,21.8,14.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Hrs,Billable,Watchlist,8261,0.240277778,21.8,14.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Eligible Hrs,Billable,Watchlist,8261,0.363611111,21.8,14.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Hrs ,Billable,Watchlist,8261,0.363611111,21.8,14.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Low Volume %,Billable,Watchlist,8261,0,21.8,14.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,PR,Billable,Watchlist,8261,0.660809778,21.8,14.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Emails Outbound,Billable,Outbound,8261,0,25.2,17.5
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Closed Items,Billable,Outbound,8261,0,25.2,17.5
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items - Match Aux,Billable,Outbound,8261,1,25.2,17.5
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Min/Item,Billable,Outbound,8261,8.725,25.2,17.5
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items,Billable,Outbound,8261,2,25.2,17.5
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Total Items,Billable,Outbound,8261,2,25.2,17.5
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Hrs,Billable,Outbound,8261,0.290833333,25.2,17.5
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Eligible Hrs,Billable,Outbound,8261,0.420555556,25.2,17.5
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Hrs ,Billable,Outbound,8261,0.420555556,25.2,17.5
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Low Volume %,Billable,Outbound,8261,0,25.2,17.5
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,PR,Billable,Outbound,8261,0.691545575,25.2,17.5
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Emails Outbound,Billable,Chat,8261,0,50.0,43.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Closed Items,Billable,Chat,8261,1,50.0,43.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items - Match Aux,Billable,Chat,8261,2,50.0,43.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Min/Item,Billable,Chat,8261,14.422222222,50.0,43.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items,Billable,Chat,8261,3,50.0,43.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Total Items,Billable,Chat,8261,3,50.0,43.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Hrs,Billable,Chat,8261,0.721111111,50.0,43.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Eligible Hrs,Billable,Chat,8261,0.8325,50.0,43.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Hrs ,Billable,Chat,8261,0.8325,50.0,43.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Low Volume %,Billable,Chat,8261,0.091424758,50.0,43.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,PR,Billable,Chat,8261,0.866199533,50.0,43.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Emails Outbound,Billable,Inbound,8261,0,32.1,23.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Closed Items,Billable,Inbound,8261,1,32.1,23.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items - Match Aux,Billable,Inbound,8261,1,32.1,23.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Min/Item,Billable,Inbound,8261,11.775,32.1,23.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items,Billable,Inbound,8261,2,32.1,23.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Total Items,Billable,Inbound,8261,2,32.1,23.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Hrs,Billable,Inbound,8261,0.3925,32.1,23.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Eligible Hrs,Billable,Inbound,8261,0.535555556,32.1,23.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Hrs ,Billable,Inbound,8261,0.535555556,32.1,23.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Low Volume %,Billable,Inbound,8261,0.267116183,32.1,23.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,PR,Billable,Inbound,8261,0.732883817,32.1,23.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Emails Outbound,Billable,Tier Limits,8261,1,94.2,47.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Closed Items,Billable,Tier Limits,8261,2,94.2,47.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items - Match Aux,Billable,Tier Limits,8261,4,94.2,47.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Min/Item,Billable,Tier Limits,8261,7.837413889,94.2,47.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items,Billable,Tier Limits,8261,6,94.2,47.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Total Items,Billable,Tier Limits,8261,6,94.2,47.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Hrs,Billable,Tier Limits,8261,0.783741389,94.2,47.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Eligible Hrs,Billable,Tier Limits,8261,1.569722222,94.2,47.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Hrs ,Billable,Tier Limits,8261,1.569722222,94.2,47.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Low Volume %,Billable,Tier Limits,8261,0,94.2,47.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,PR,Billable,Tier Limits,8261,0.499286675,94.2,47.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Emails Outbound,Billable,Reviews,8261,1,289.1,205.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Closed Items,Billable,Reviews,8261,12,289.1,205.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items - Match Aux,Billable,Reviews,8261,10,289.1,205.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Min/Item,Billable,Reviews,8261,12.864583333,289.1,205.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Productive Items,Billable,Reviews,8261,16,289.1,205.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Total Items,Billable,Reviews,8261,16,289.1,205.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Prod Hrs,Billable,Reviews,8261,3.430555556,289.1,205.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Eligible Hrs,Billable,Reviews,8261,4.818888889,289.1,205.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Aux Hrs ,Billable,Reviews,8261,4.818888889,289.1,205.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,Low Volume %,Billable,Reviews,8261,0.045192529,289.1,205.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/30/23,PR,Billable,Reviews,8261,0.711897625,289.1,205.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Emails Outbound,Billable,Outbound,8261,0,26.6,26.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Closed Items,Billable,Outbound,8261,1,26.6,26.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items - Match Aux,Billable,Outbound,8261,1,26.6,26.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Min/Item,Billable,Outbound,8261,8.877777778,26.6,26.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items,Billable,Outbound,8261,3,26.6,26.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Total Items,Billable,Outbound,8261,3,26.6,26.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Hrs,Billable,Outbound,8261,0.443888889,26.6,26.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Eligible Hrs,Billable,Outbound,8261,0.443888889,26.6,26.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Hrs ,Billable,Outbound,8261,0.443888889,26.6,26.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Low Volume %,Billable,Outbound,8261,0,26.6,26.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,PR,Billable,Outbound,8261,1,26.6,26.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Emails Outbound,Billable,Expedited Tier Limits,8261,0,55.0,37.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Closed Items,Billable,Expedited Tier Limits,8261,3,55.0,37.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items - Match Aux,Billable,Expedited Tier Limits,8261,2,55.0,37.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Min/Item,Billable,Expedited Tier Limits,8261,6.272222222,55.0,37.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items,Billable,Expedited Tier Limits,8261,6,55.0,37.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Total Items,Billable,Expedited Tier Limits,8261,6,55.0,37.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Hrs,Billable,Expedited Tier Limits,8261,0.627222222,55.0,37.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Eligible Hrs,Billable,Expedited Tier Limits,8261,0.916666667,55.0,37.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Hrs ,Billable,Expedited Tier Limits,8261,0.916666667,55.0,37.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Low Volume %,Billable,Expedited Tier Limits,8261,0,55.0,37.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,PR,Billable,Expedited Tier Limits,8261,0.684242424,55.0,37.6
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Emails Outbound,Billable,Chat,8261,0,33.6,33.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Closed Items,Billable,Chat,8261,0,33.6,33.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items - Match Aux,Billable,Chat,8261,3,33.6,33.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Min/Item,Billable,Chat,8261,6.593333333,33.6,33.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items,Billable,Chat,8261,5,33.6,33.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Total Items,Billable,Chat,8261,5,33.6,33.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Hrs,Billable,Chat,8261,0.549444444,33.6,33.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Eligible Hrs,Billable,Chat,8261,0.559444444,33.6,33.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Hrs ,Billable,Chat,8261,0.559444444,33.6,33.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Low Volume %,Billable,Chat,8261,0,33.6,33.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,PR,Billable,Chat,8261,0.982125124,33.6,33.0
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Emails Outbound,Billable,Inbound,8261,0,105.6,95.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Closed Items,Billable,Inbound,8261,0,105.6,95.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items - Match Aux,Billable,Inbound,8261,7,105.6,95.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Min/Item,Billable,Inbound,8261,13.685714286,105.6,95.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items,Billable,Inbound,8261,7,105.6,95.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Total Items,Billable,Inbound,8261,7,105.6,95.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Hrs,Billable,Inbound,8261,1.596666667,105.6,95.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Eligible Hrs,Billable,Inbound,8261,1.759722222,105.6,95.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Hrs ,Billable,Inbound,8261,1.759722222,105.6,95.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Low Volume %,Billable,Inbound,8261,0.092186267,105.6,95.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,PR,Billable,Inbound,8261,0.907340174,105.6,95.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Emails Outbound,Billable,Tier Limits,8261,1,98.7,51.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Closed Items,Billable,Tier Limits,8261,0,98.7,51.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items - Match Aux,Billable,Tier Limits,8261,3,98.7,51.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Min/Item,Billable,Tier Limits,8261,8.569444444,98.7,51.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items,Billable,Tier Limits,8261,6,98.7,51.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Total Items,Billable,Tier Limits,8261,6,98.7,51.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Hrs,Billable,Tier Limits,8261,0.856944444,98.7,51.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Eligible Hrs,Billable,Tier Limits,8261,1.644166667,98.7,51.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Hrs ,Billable,Tier Limits,8261,1.644166667,98.7,51.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Low Volume %,Billable,Tier Limits,8261,0,98.7,51.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,PR,Billable,Tier Limits,8261,0.521202906,98.7,51.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Emails Outbound,Billable,Reviews,8261,0,38.1,36.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Closed Items,Billable,Reviews,8261,2,38.1,36.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items - Match Aux,Billable,Reviews,8261,1,38.1,36.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Min/Item,Billable,Reviews,8261,9.112500000,38.1,36.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Productive Items,Billable,Reviews,8261,4,38.1,36.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Total Items,Billable,Reviews,8261,4,38.1,36.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Prod Hrs,Billable,Reviews,8261,0.607500000,38.1,36.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Eligible Hrs,Billable,Reviews,8261,0.634444444,38.1,36.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Aux Hrs ,Billable,Reviews,8261,0.634444444,38.1,36.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,Low Volume %,Billable,Reviews,8261,0,38.1,36.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,08/31/23,PR,Billable,Reviews,8261,0.957530648,38.1,36.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Emails Outbound,Billable,Outbound,8261,0,34.0,24.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Closed Items,Billable,Outbound,8261,0,34.0,24.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items - Match Aux,Billable,Outbound,8261,1,34.0,24.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Min/Item,Billable,Outbound,8261,12.15,34.0,24.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items,Billable,Outbound,8261,2,34.0,24.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Total Items,Billable,Outbound,8261,2,34.0,24.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Hrs,Billable,Outbound,8261,0.405,34.0,24.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Eligible Hrs,Billable,Outbound,8261,0.567222222,34.0,24.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Hrs ,Billable,Outbound,8261,0.567222222,34.0,24.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Low Volume %,Billable,Outbound,8261,0,34.0,24.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,PR,Billable,Outbound,8261,0.714005877,34.0,24.3
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Emails Outbound,Billable,Expedited Tier Limits,8261,0,71.7,53.9
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Closed Items,Billable,Expedited Tier Limits,8261,6,71.7,53.9
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items - Match Aux,Billable,Expedited Tier Limits,8261,3,71.7,53.9
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Min/Item,Billable,Expedited Tier Limits,8261,8.980555556,71.7,53.9
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items,Billable,Expedited Tier Limits,8261,6,71.7,53.9
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Total Items,Billable,Expedited Tier Limits,8261,6,71.7,53.9
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Hrs,Billable,Expedited Tier Limits,8261,0.898055556,71.7,53.9
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Eligible Hrs,Billable,Expedited Tier Limits,8261,1.194444444,71.7,53.9
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Hrs ,Billable,Expedited Tier Limits,8261,1.194444444,71.7,53.9
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Low Volume %,Billable,Expedited Tier Limits,8261,0,71.7,53.9
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,PR,Billable,Expedited Tier Limits,8261,0.751860465,71.7,53.9
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Emails Outbound,Billable,Chat,8261,0,70.9,68.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Closed Items,Billable,Chat,8261,0,70.9,68.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items - Match Aux,Billable,Chat,8261,5,70.9,68.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Min/Item,Billable,Chat,8261,13.746666667,70.9,68.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items,Billable,Chat,8261,5,70.9,68.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Total Items,Billable,Chat,8261,5,70.9,68.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Hrs,Billable,Chat,8261,1.145555556,70.9,68.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Eligible Hrs,Billable,Chat,8261,1.182222222,70.9,68.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Hrs ,Billable,Chat,8261,1.182222222,70.9,68.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Low Volume %,Billable,Chat,8261,0,70.9,68.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,PR,Billable,Chat,8261,0.968984962,70.9,68.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Emails Outbound,Billable,Inbound,8261,0,90.5,73.2
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Closed Items,Billable,Inbound,8261,2,90.5,73.2
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items - Match Aux,Billable,Inbound,8261,5,90.5,73.2
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Min/Item,Billable,Inbound,8261,10.461904762,90.5,73.2
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items,Billable,Inbound,8261,7,90.5,73.2
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Total Items,Billable,Inbound,8261,7,90.5,73.2
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Hrs,Billable,Inbound,8261,1.220555556,90.5,73.2
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Eligible Hrs,Billable,Inbound,8261,1.508611111,90.5,73.2
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Hrs ,Billable,Inbound,8261,1.508611111,90.5,73.2
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Low Volume %,Billable,Inbound,8261,0.146566010,90.5,73.2
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,PR,Billable,Inbound,8261,0.809059105,90.5,73.2
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Emails Outbound,Billable,Tier Limits,8261,2,72.4,42.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Closed Items,Billable,Tier Limits,8261,0,72.4,42.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items - Match Aux,Billable,Tier Limits,8261,2,72.4,42.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Min/Item,Billable,Tier Limits,8261,6.121428571,72.4,42.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items,Billable,Tier Limits,8261,7,72.4,42.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Total Items,Billable,Tier Limits,8261,7,72.4,42.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Hrs,Billable,Tier Limits,8261,0.714166667,72.4,42.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Eligible Hrs,Billable,Tier Limits,8261,1.205833333,72.4,42.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Hrs ,Billable,Tier Limits,8261,1.205833333,72.4,42.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Low Volume %,Billable,Tier Limits,8261,0,72.4,42.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,PR,Billable,Tier Limits,8261,0.592259848,72.4,42.8
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Emails Outbound,Billable,Reviews,8261,0,103.1,85.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Closed Items,Billable,Reviews,8261,4,103.1,85.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items - Match Aux,Billable,Reviews,8261,4,103.1,85.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Min/Item,Billable,Reviews,8261,14.227777778,103.1,85.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Productive Items,Billable,Reviews,8261,6,103.1,85.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Total Items,Billable,Reviews,8261,6,103.1,85.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Prod Hrs,Billable,Reviews,8261,1.422777778,103.1,85.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Eligible Hrs,Billable,Reviews,8261,1.718055556,103.1,85.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Aux Hrs ,Billable,Reviews,8261,1.718055556,103.1,85.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,Low Volume %,Billable,Reviews,8261,0,103.1,85.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/01/23,PR,Billable,Reviews,8261,0.828132579,103.1,85.4
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Emails Outbound,Billable,Inbound,8261,0,81.8,70.1
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Closed Items,Billable,Inbound,8261,0,81.8,70.1
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Productive Items - Match Aux,Billable,Inbound,8261,6,81.8,70.1
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Prod Min/Item,Billable,Inbound,8261,10.011904762,81.8,70.1
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Productive Items,Billable,Inbound,8261,7,81.8,70.1
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Total Items,Billable,Inbound,8261,7,81.8,70.1
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Prod Hrs,Billable,Inbound,8261,1.168055556,81.8,70.1
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Aux Eligible Hrs,Billable,Inbound,8261,1.363888889,81.8,70.1
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Aux Hrs ,Billable,Inbound,8261,1.363888889,81.8,70.1
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Low Volume %,Billable,Inbound,8261,0.134419552,81.8,70.1
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,PR,Billable,Inbound,8261,0.856415479,81.8,70.1
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Emails Outbound,Billable,Tier Limits,8261,3,151.7,96.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Closed Items,Billable,Tier Limits,8261,1,151.7,96.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Productive Items - Match Aux,Billable,Tier Limits,8261,3,151.7,96.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Prod Min/Item,Billable,Tier Limits,8261,9.673336667,151.7,96.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Productive Items,Billable,Tier Limits,8261,10,151.7,96.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Total Items,Billable,Tier Limits,8261,10,151.7,96.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Prod Hrs,Billable,Tier Limits,8261,1.612222778,151.7,96.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Aux Eligible Hrs,Billable,Tier Limits,8261,2.527777778,151.7,96.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Aux Hrs ,Billable,Tier Limits,8261,2.527777778,151.7,96.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Low Volume %,Billable,Tier Limits,8261,0,151.7,96.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,PR,Billable,Tier Limits,8261,0.637802418,151.7,96.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Emails Outbound,Billable,Reviews,8261,2,217.0,115.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Closed Items,Billable,Reviews,8261,7,217.0,115.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Productive Items - Match Aux,Billable,Reviews,8261,7,217.0,115.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Prod Min/Item,Billable,Reviews,8261,10.516666667,217.0,115.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Productive Items,Billable,Reviews,8261,11,217.0,115.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Total Items,Billable,Reviews,8261,11,217.0,115.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Prod Hrs,Billable,Reviews,8261,1.928055556,217.0,115.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Aux Eligible Hrs,Billable,Reviews,8261,3.615833333,217.0,115.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Aux Hrs ,Billable,Reviews,8261,3.615833333,217.0,115.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,Low Volume %,Billable,Reviews,8261,0,217.0,115.7
+CPT,REM-MGA1,franklin.gomez@remitly.com,cesar.rosales@remitly.com,09/02/23,PR,Billable,Reviews,8261,0.533225782,217.0,115.7
